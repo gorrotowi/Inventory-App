@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="sell_one">Sell One</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_desc">Contact</string>
+    <string name="product_price">Price $$$</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="product_image_descr">Product Image</string>
+    <string name="add_products">Add products</string>
+    <string name="add">Add</string>
+    <string name="remove_products">Remove products</string>
+    <string name="remove">Remove</string>
+    <string name="request_for_more">Request for more</string>
+    <string name="delete_product">Delete product</string>
+    <string name="formated_price">$%d</string>
+    <string name="formated_quantity">Quantity: %d</string>
+    <string name="dont_have_products">You don\'t have products, try\nadding some with the button</string>
+    <string name="no_data">Img no data</string>
+    <string name="image_product">Image product</string>
+</resources>
