@@ -76,6 +76,7 @@ public class MainActivity extends AppCompatActivity {
 
         if (dummyData.size() > 0) {
             noDataView.setVisibility(View.GONE);
+            recyclerView.setVisibility(View.VISIBLE);
             adapterProducts = new AdapterProducts(dummyData);
             recyclerView.setAdapter(adapterProducts);
         } else {
